@@ -1,2 +1,4 @@
-# geoblocking
-TYPO3 Extension
+Sitepackage for the project "geoblocking"
+==============================================================
+
+Add some explanation here.
